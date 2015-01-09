@@ -10,5 +10,6 @@ public class Sample4Servlet extends HttpServlet {
 		resp.setContentType("text/plain");
 		resp.getWriter().println("Hello, world");
 		System.out.println("sonu dhakar");
+		System.out.println("dhakar");
 	}
 }
